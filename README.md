@@ -11,8 +11,7 @@ Engenharia de software, engenharia de requisitos, modelagem de dados, modelagem 
 
 ## Projetos:
 
-- Projeto 1:
-- Projeto 2:
+- Projeto Python Fundamentos: [Fundamentos do desenvolvimento em Python](https://github.com/bonelsenac/python_fundamentos)
 
 ## Conecte-se comigo nas redes sociais:
 
